@@ -1,52 +1,79 @@
-## 👋 Olá! Eu sou a Giovana Souza Vieira
+<h1 align="center">
+  ✨ Oi, eu sou a Giovana Souza Vieira ✨
+</h1>
 
-💻 Desenvolvedora em formação apaixonada por tecnologia, programação e inovação.  
-🚀 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Focada em desenvolvimento web, backend e soluções criativas com código.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+em+formação;Java+%7C+Python+%7C+Web+Dev;Apaixonada+por+tecnologia+e+inovação" />
+</p>
 
 ---
 
-### 🛠️ Tecnologias & Linguagens
+## 💻 Sobre mim
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+🚀 Focada em **desenvolvimento web**, **backend** e **lógica de programação**  
+💡 Gosto de transformar ideias em soluções reais através do código  
+
+---
+
+## 🛠️ Tecnologias & Linguagens
+
+<div align="center" style="display: inline_block"><br>
+  <img alt="Java" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JavaScript" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Python" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="SQL" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
 ---
-### 🌐 Conecte-se comigo
 
-<div> 
+## 📊 Estatísticas GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+</div>
+
+---
+
+## ⚡ Sequência de Contribuições
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula" />
+</div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&row=1&column=6" />
+</div>
+
+---
+
+## 🌐 Conecte-se comigo
+
+<div align="center"> 
   <a href="https://www.linkedin.com/in/giovana-souza-js" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-%239D4EDD?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:giovana.vieiras1302@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Gmail-%23181818?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
-
----
-### 📚 O que estou estudando atualmente
-- Desenvolvimento Web (HTML, CSS, JavaScript)
-- Backend com Java e Python
-- Banco de Dados e SQL
-- Lógica de Programação e Estruturas de Dados
-
 ---
 
-### 🌱 Objetivos
-- Evoluir como desenvolvedora back-end  
-- Criar projetos reais e impactantes  
-- Conquistar minha primeira oportunidade profissional na área de tecnologia  
+## 👀 Visitas no perfil
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=9D4EDD&style=flat-square">
+</div>
 
 ---
 
-
-
-✨ *“Transformando ideias em código e sonhos em projetos.”*
+✨ *“Código é a ponte entre ideias e realidade.”*
 
