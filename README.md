@@ -1,8 +1,10 @@
 ## 👋 Olá! Eu sou a Giovana Souza
 
-💻 Desenvolvedora em formação apaixonada por tecnologia, programação e inovação.  
+ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Back-End;Java+%7C+Python+%7C+Web+Dev;Apaixonada+por+tecnologia+e+inovação" />
+</p>
 🚀 Estudante de Análise e Desenvolvimento de Sistemas  
-📍 Focada em desenvolvimento web, backend e soluções criativas com código.
+
 
 ---
 
