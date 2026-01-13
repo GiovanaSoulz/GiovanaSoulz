@@ -32,8 +32,8 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GiovanaSoulz&show_icons=true&theme=dracula&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovanaSoulz&layout=compact&theme=dracula"/>
 </div>
 
 ---
@@ -41,7 +41,7 @@
 ## ⚡ Sequência de Contribuições
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dracula" />
+  <img src="https://streak-stats.demolab.com?user=GiovanaSoulz&theme=dracula" />
 </div>
 
 ---
@@ -49,7 +49,7 @@
 ## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=dracula&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GiovanaSoulz&theme=dracula&row=1&column=6" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ## 👀 Visitas no perfil
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=9D4EDD&style=flat-square">
+  <img src="https://komarev.com/ghpvc/?username=GiovanaSoulz&color=9D4EDD&style=flat-square">
 </div>
 
 ---
