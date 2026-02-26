@@ -32,9 +32,14 @@
 ---
 
 ### 📚 O que estou estudando atualmente
-- Desenvolvimento Web (HTML, CSS, JavaScript)
+- Desenvolvimento Web (HTML, CSS, JavaScript, typescript, react)
+- Desenvolvimento mobile (react native, js, typescript)
 - Backend com Java e Python
+- Spring boot framework
 - Banco de Dados e SQL
+- Devops & clound Computing
+- Desenvolvimento .NET
+- Arquiteturas IoT, IOB & Gener
 - Lógica de Programação e Estruturas de Dados
 
 ---
