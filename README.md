@@ -1,9 +1,10 @@
-## 👋 Olá! Eu sou a Giovana Souza
+
 
  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=9D4EDD&size=24&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Back-End;Java+%7C+Python+%7C+Web+Dev;Apaixonada+por+tecnologia+e+inovação" />
+  <img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/fc4eb49c-5bb6-49f0-bf64-94072d8805ed" />
+
 </p>
-🚀 Estudante de Análise e Desenvolvimento de Sistemas  
+
 
 
 ---
